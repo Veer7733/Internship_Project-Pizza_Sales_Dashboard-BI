@@ -17,6 +17,13 @@ This project analyzes one year of pizza sales data using *SQL and Power BI* to i
 
 ---
 
+## Dashboard Preview
+![Dashobard Preview](https://github.com/Veer7733/Internship_Project-Pizza_Sales_Dashboard-BI/blob/main/Dashboard/Dashboard_Preview(1).png)
+
+![Dashboard Preview](https://github.com/Veer7733/Internship_Project-Pizza_Sales_Dashboard-BI/blob/main/Dashboard/Dashboard_Preview(2).png)
+
+---
+
 ## Key Performance Indicators (KPIs)
 
 The dashboard highlights the following metrics:
